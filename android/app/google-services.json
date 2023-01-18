@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397938180702",
+    "project_id": "test-connectivity-80929",
+    "storage_bucket": "test-connectivity-80929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397938180702:android:2572d26a282df01cbd2acf",
+        "android_client_info": {
+          "package_name": "com.example.learn_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397938180702-1a88s1cn9teogca780qstpsr6dcogeqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Rr5g2lKlmOLyZ9hn2EEOYZjVqxhL-wg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397938180702-1a88s1cn9teogca780qstpsr6dcogeqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
